@@ -12,8 +12,8 @@ Yapılacaklar listesi uygulaması
 
 Projeyi lokalde çalıştırabilmek için: 
 
-* Repo'yu klonlayın `git clone https://github.com/sulesavas/tic-tac-toe.git`
-* Komutu çalıştırın `cd tic-tac-toe`
+* Repo'yu klonlayın `git clone https://github.com/sulesavas/todo-app.git`
+* Komutu çalıştırın `cd todo-app`
 * Komutu çalıştırın `npm install` veya `yarn install`
 * Komutu çalıştırın `npm start` veya `yarn install` 
 
