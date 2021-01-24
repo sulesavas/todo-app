@@ -2,6 +2,9 @@
 
 Yapılacaklar listesi uygulaması
 
+### Demo Sitesi
+ Adres: https://sulesavas-todo.netlify.app
+
 ### Kullanılan Teknolojiler
 
 - ReactJS
